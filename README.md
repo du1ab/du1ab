@@ -9,7 +9,7 @@ I am a 2021 CyberSecurity Major & Computer Science Minor graduate with a profoun
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or Purple Team Engineer. I currently work as a store support technician for a Fortune 100 Company Barnes & Noble. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
