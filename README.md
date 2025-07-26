@@ -13,8 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| INSERT SKILL                                  | <a href="INSERTPROJECTLINK">Project NAME</a>|
-| INSERT SKILL                                  | PROJECT NAME|
+
 
 
 ### Network
