@@ -8,11 +8,8 @@ I am a 2021 CyberSecurity Major & Computer Science Minor graduate with a profoun
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or Red Team. I currently work as a store support technician for a Fortune 100 Company Barnes & Noble. I enjoy methodical investigation and looking for ways to break into systems, which is why between blue and red, i believe red teaming would be a much better fit for myself. I will add some projects here that supplement my knowledge about ethical hacking. 
 
-## Skills
 
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+[![TryHAckMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4033003" style='border:none;'></iframe>)
 
 
 
